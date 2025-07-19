@@ -1,19 +1,28 @@
-# Food-delivery-app-uiux
-# Step 1: Open terminal (or Git Bash) and navigate to your project folder
-cd path/to/your/project
+# Flutter Food Delivery Application Design
 
-# Step 2: Initialize Git
-git init
+## This application is not completed yet. Currently, I am working on it. 
+A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
 
-# Step 3: Connect your GitHub repo (copy from GitHub page)
-git remote add origin https://github.com/yourusername/food-delivery-uiux.git
+## 🤓 Author(s)
+**Md Tarikul Islam** [![Twitter Follow](https://img.shields.io/twitter/follow/tarikul711.svg?style=social)](https://twitter.com/tarikul711)
 
-# Step 4: Add files
-git add .
+## Food Ordering & Delivery App UI in Flutter
+<img src="screens/full_ui.png"  />
 
-# Step 5: Commit
-git commit -m "Initial commit - Food Delivery UI/UX project"
+## ScreenShots
+### Home Page
+<img src="screens/home_screen.jpg" height="500em" />
 
-# Step 6: Push to GitHub
-git branch -M main
-git push -u origin main
+### Food Details Screen & Add To Cart Screen
+<img src="screens/detail_screen.jpg" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/add_to_cart_screen.jpg" height="500em" />
+
+### Login & Registration Screen
+<img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/signin_scren.jpg" height="500em" />
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
+
+
