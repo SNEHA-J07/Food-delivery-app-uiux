@@ -4,10 +4,9 @@
 A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
 
 ## 🤓 Author(s)
-**Md Tarikul Islam** [![Twitter Follow](https://img.shields.io/twitter/follow/tarikul711.svg?style=social)](https://twitter.com/tarikul711)
-
+**SNEHA J**
 ## Food Ordering & Delivery App UI in Flutter
-<img src="screens/full_ui.png"  />
+<img src="screens//storage/emulated/0/Download/93661921-4d1db200-fa79-11ea-8ebf-4ce3246ecf1e.jpeg"  />
 
 ## ScreenShots
 ### Home Page
